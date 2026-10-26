@@ -35,9 +35,9 @@ Explore our services, pricing, and resources directly on our website:
 
 **Resources & Tools**
 *   📋 **[Take our Free CIAM Assessment](https://axiomidentity.com/assessment)** - *Get a personalized identity report*
-*   📅 **[Book a Free Consultation](https://axiomidentity.com/contact)**
-*   📚 [Knowledge Base](https://axiomidentity.com/knowledge)
-*   📰 [Axiom Identity Blog](https://axiomidentity.com/blog)
+*   📅 **[Book a Free Consultation]([https://axiomidentity.com/contact](https://axiomidentity.com/contact))**
+*   📚 [Knowledge Base](https://axiomidentity.com/knowledge/)
+*   📰 [Axiom Identity Blog](https://axiomidentity.com/blogs/)
 
 ## 💼 Core Deliverables
 
