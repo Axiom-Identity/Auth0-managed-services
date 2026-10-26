@@ -30,12 +30,12 @@ Explore our services, pricing, and resources directly on our website:
 **Services & Pricing**
 *   🛠️ [Customer Identity Services](https://axiomidentity.com/services/customer-identity) - *Login, signup, MFA, Passkeys, and SSO*
 *   📦 [Secure Start Packages](https://axiomidentity.com/secure-start) - *Fixed-price Auth0 packages*
-*   🛡️ [Prevention Plan](https://axiomidentity.com/prevention-plan) - *Monthly managed CIAM services*
+*   🛡️ [Prevention Plan](https://axiomidentity.com/pricing#prevention) - *Monthly managed CIAM services*
 *   💳 [Pricing Details](https://axiomidentity.com/pricing)
 
 **Resources & Tools**
-*   📋 **[Take our Free CIAM Assessment](https://axiomidentity.com/assessment)** - *Get a personalized identity report*
-*   📅 **[Book a Free Consultation]([https://axiomidentity.com/contact](https://axiomidentity.com/contact))**
+*   📋 **[Take our Free CIAM Assessment](https://axiomidentity.com/assess)** - *Get a personalized identity report*
+*   📅 **[Book a Free Consultation](https://axiomidentity.com/contact)**
 *   📚 [Knowledge Base](https://axiomidentity.com/knowledge/)
 *   📰 [Axiom Identity Blog](https://axiomidentity.com/blogs/)
 
