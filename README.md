@@ -1,37 +1,70 @@
-# Axiom Identity
+Axiom Identity
 
-Enterprise Customer Identity (CIAM) and Auth0 Managed Services. We architect, migrate, and run your authentication infrastructure safely—priced up front and without hiring an identity team.
+Auth0 Managed Services and CIAM Consulting.
 
-> 🌐 **[Visit the Axiom Identity Main Website](https://axiomidentity.com/)** | 📧 **[Schedule a Free Consultation]([https://axiomidentity.com/](https://axiomidentity.com/assess))**
+Your customer identity, built and run for you. We provide B2B and B2C companies with outcome-driven, Okta-certified identity engineering. We do one job, on one platform, all the way through—so you can secure your signups, eliminate credential stuffing, and accelerate enterprise deal closures.
 
----
+🚀 What We Do
 
-## 🛠️ Who We Are & What We Cover
-Axiom Identity delivers expert, Okta-certified identity engineering to secure your sign-up funnels, satisfy enterprise compliance requirements, and eliminate authentication bottlenecks. We build fixed-outcome milestones directly inside your Auth0 tenant.
+Customer identity on Auth0. Nothing else.
+Whether you need to migrate from a homegrown user store, set up Enterprise SSO, or implement passwordless sign-in, we deliver scoped, production-grade milestones on a fixed schedule.
 
-* **[Customer Identity Management (CIAM)](https://axiomidentity.com/):** High-converting sign-up flows, modern Passkeys, passwordless onboarding, and custom Universal Login branding.
-* **[Enterprise SSO & Auth0 Organizations]([https://axiomidentity.com/](https://axiomidentity.com/our-work)):** Rapid SAML and OIDC connections engineered to onboard corporate B2B clients in under 5 business days.
-* **[Secure Data Migrations]([https://axiomidentity.com/](https://axiomidentity.com/pricing)):** Seamless user store migrations from homegrown databases, Cognito, Firebase, or Keycloak with zero forced password resets.
+The Axiom Method
 
----
+We follow a strict Diagnose, Cure, Prevent methodology for every engagement:
 
-## 🚨 Critical Platform Deadlines
-Auth0 is permanently retiring legacy Rules and Hooks on **November 18, 2026**. If your systems still rely on legacy scripts to inject custom claims or validate login events, your production authentication pipeline will break.
+Diagnose (Health Check): Measures your tenant against an explicit engineering target to surface what is actually worth fixing.
 
-We specialize in rewriting legacy rules into fully tested, node-compatible Auth0 Actions. Browse our public repositories for production-ready configuration blueprints and code components.
+Cure (Fixed Outcomes): Delivered in your tenant in one scheduled day, or milestone phases for large migrations.
 
----
+Prevent (Managed Plan): Auth0 deprecations handled, attack protection tuned, and enterprise customers onboarded within days.
 
-## 💼 Fixed-Price Engagement Packages
-We believe in absolute transparency. We publish our pricing up front and bill by scoped milestones, never by fluid staff hours.
+🔗 Important Links
 
-* **[Secure Start Packages]([https://axiomidentity.com/](https://axiomidentity.com/secure-start)):** Begins with a comprehensive $7,500 CIAM Health Check to audit your tenant configuration, followed by rapid, scheduled $4,000 one-day engineering cures.
-* **[Prevention Plan]([https://axiomidentity.com/](https://axiomidentity.com/pricing#prevention)):** Dedicated monthly oversight starting from $5,000/mo. We handle platform deprecations before they strike, fine-tune attack protection metrics, and maintain tenant compliance.
+Explore our services, pricing, and resources directly on our website:
 
----
+Main Links
 
-## 🔒 Connect With Our Engineering Team
-Stop treating identity architecture as an item on your engineering backlog. Bring us your hardest identity problems—the migration that stalled, the legacy tenant nobody wants to touch, or the enterprise deal hanging on custom single sign-on.
+🌐 Axiom Identity Homepage
 
-* **Free Assessment:** Get a rapid, outside evaluation of your current login layer at [Axiom Identity Assessment][(https://axiomidentity.com/](https://axiomidentity.com/assess).
-* **Direct Inquiries:** Reach out to our identity practitioners directly at **connect@axiomidentity.com**.
+🏢 About Us & Our Team
+
+✉️ Contact Us
+
+Services & Pricing
+
+🛠️ Customer Identity Services - Login, signup, MFA, Passkeys, and SSO
+
+📦 Secure Start Packages - Fixed-price Auth0 packages
+
+🛡️ Prevention Plan - Monthly managed CIAM services
+
+💳 Pricing Details
+
+Resources & Tools
+
+📋 Take our Free CIAM Assessment - Get a personalized identity report
+
+📅 Book a Free Consultation
+
+📚 Knowledge Base
+
+📰 Axiom Identity Blog
+
+💼 Core Deliverables
+
+We offer fixed-outcome packages for Auth0 environments, including:
+
+Enterprise SSO & Auth0 Organizations: SAML and OIDC setup for B2B clients.
+
+Universal Login & Branding: Custom domains and high-converting reset flows.
+
+Passkeys & Passwordless: Next-generation, seamless sign-in experiences.
+
+Application & API Integration: Working reference apps wired with OIDC, OAuth, and RBAC.
+
+Customer MFA & Attack Protection: Adaptive MFA, bot detection, and breach checks.
+
+Rules & Hooks to Actions Migration: Future-proofing your tenant before deprecation dates.
+
+Axiom Identity is a brand of Identity360, LLC.
