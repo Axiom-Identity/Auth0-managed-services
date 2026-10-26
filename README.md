@@ -1,4 +1,4 @@
-# Axiom Identity
+# Axiom Identity - Auth0 Managed Services & CIAM Consulting
 
 [![Website](https://img.shields.io/badge/Website-axiomidentity.com-blue?style=for-the-badge&logo=google-chrome)](https://axiomidentity.com/)
 [![Contact](https://img.shields.io/badge/Contact-connect@axiomidentity.com-red?style=for-the-badge&logo=gmail)](mailto:connect@axiomidentity.com)
